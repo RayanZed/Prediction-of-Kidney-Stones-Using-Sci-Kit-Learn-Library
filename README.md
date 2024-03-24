@@ -4,6 +4,9 @@
 
 ### *The Kidney Stone Prediction Classifier serves as a binary classification model crafted specifically to determine the likelihood of a patient having kidney stones. This model leverages a range of numerical features to make accurate predictions. Its primary purpose is to aid healthcare professionals in making well-informed decisions that lead to early detection and enhanced treatment outcomes.*
 
+![blog-kidney-stones](https://github.com/RayanZed/Prediction-of-Kidney-Stones-Using-Sci-Kit-Learn-Library/assets/164723270/bf36cd22-732b-4205-8ee9-b5f4802d294e)
+
+
 #### Dataset
 
 The dataset used in training the model consists of 414 entries, with an additional separate test dataset containing 276 entries. This dataset encompasses a broad spectrum of information, including age, medical history, and other pertinent factors. The inclusion of such comprehensive data significantly contributes to the model's precision and reliability in making predictions related to kidney stones.
